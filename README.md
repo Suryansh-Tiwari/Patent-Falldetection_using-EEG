@@ -4,4 +4,4 @@ This model is based on the the project that uses a headworn wearable EEG devivce
 
 //////////////////////////////////////////////////////// DATA SET 
 
-Adataset is test perpose data set is used having the eeg reading of individual momentes like walking , running and day today activity that is labeled as the fall and the non fall data respectively using the code given 
+A dataset is test perpose data set is used having the eeg reading of individual momentes like walking , running and day today activity that is labeled as the fall and the non fall data respectively using the code given 
