@@ -1,4 +1,6 @@
 FALL DETECTION MODEL 
 
+The model is developed and tested in the google colab envirenment , make sure to istall all the liberaries and the datadet 
+
 The fall detection model uses the basic ML Liberaries o Python that are like numpy and SKlean etc. 
 We Have used the dission tree methord as this is the most accureate model on this dataset 
