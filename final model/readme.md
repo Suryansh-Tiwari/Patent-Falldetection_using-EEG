@@ -1,0 +1,8 @@
+The board is to 1st read the data using tensor flow. We have used a library to convert the original data set into CSV files. The original data set is shared in the repository.
+After converting, we read the data using. PDdot read CSV although it uses a large amount of RAM but you can use it by using chunk size. Set chunk size to 1000 and it will work.
+After which we have used Sk Learn Test SplitterIt has divided the data set into two sets. 1 is test set and the other is train set. The train set is 80% of the data.
+After which we have. Separated the X component and the Y component as data and label. That is fed into a pipeline for. Standard scaler feature scaling. We need this feature scaling so that two classes. Fight each egg data correctly.
+You have used a1 dimensional. Convolutional. Neural network. Through which we have attained. The accuracy of 99%.
+
+
+
